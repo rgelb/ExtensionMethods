@@ -6,7 +6,7 @@ using System.Drawing.Imaging;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Widgets.Images {
+namespace Assist.Images {
 
     /// <summary>
     /// Extension methods to help with image manipulation
